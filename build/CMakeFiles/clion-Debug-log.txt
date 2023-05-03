@@ -1,0 +1,4 @@
+"/Users/stanislavstehniy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -S /Users/stanislavstehniy/dev/studium/ECG/ecg_tree -B /Users/stanislavstehniy/dev/studium/ECG/ecg_tree/build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/stanislavstehniy/dev/studium/ECG/ecg_tree/build

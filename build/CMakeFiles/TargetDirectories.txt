@@ -1,0 +1,3 @@
+/Users/stanislavstehniy/dev/studium/ECG/ecg_tree/build/CMakeFiles/ecg_tree.dir
+/Users/stanislavstehniy/dev/studium/ECG/ecg_tree/build/CMakeFiles/edit_cache.dir
+/Users/stanislavstehniy/dev/studium/ECG/ecg_tree/build/CMakeFiles/rebuild_cache.dir
