@@ -19,11 +19,11 @@ node::node(const std::string &name) {
 }
 
 node::~node() {
-//    std::cout << "enter ~node() of " << "\"" << name_ << "\"" << std::endl;
+    std::cout << "enter ~node() of " << "\"" << name_ << "\"" << std::endl;
     for (node *child: children) {
         delete child;
     }
-//    std::cout << "leave ~node() of " << "\"" << name_ << "\"" << std::endl;
+    std::cout << "leave ~node() of " << "\"" << name_ << "\"" << std::endl;
 }
 
 // get_name() Methode

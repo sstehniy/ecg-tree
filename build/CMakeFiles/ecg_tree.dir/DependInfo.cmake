@@ -12,8 +12,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/stanislavstehniy/dev/studium/ECG/ecg_tree/node.cpp" "CMakeFiles/ecg_tree.dir/node.cpp.o" "gcc" "CMakeFiles/ecg_tree.dir/node.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
